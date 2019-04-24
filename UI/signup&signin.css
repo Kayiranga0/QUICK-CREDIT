@@ -1,0 +1,130 @@
+body{
+background-size:cover;
+}
+
+.h3 {
+  position: relative;
+  left: 0px;
+
+}
+.h1{
+text-align: left;
+padding: 230px 0;
+margin-left: 120px;
+
+}
+.signupp2 {
+width: 400px;
+box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+background: #fff;
+padding: 2px;
+margin: -41.4% auto 0;
+text-align: center;
+float:right;
+margin-right: 43px;
+}
+
+.welcomepage{
+  width: 400px;
+  box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+  background: rgba(0,0,0,.5);
+  padding: 2px;
+  margin: -38.4% auto 0;
+  text-align: center;
+  float:right;
+  margin-right: 43px;
+  color: white;
+}
+
+.loginp2{
+  width: 400px;
+  box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+  background: #fff;
+  padding: 20px;
+  margin: -38% auto 0;
+  text-align: center;
+  float:right;
+  margin-right: 42px;
+
+}
+div.nav {
+
+    background-color: yellow;
+    list-style-type: none;
+    text-align: center;
+    margin: 40px;
+    padding: 0;
+  }
+.signupp2 h1{
+
+color: #1c8adb;
+margin-bottom: 10px;
+
+}
+  div.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+  }
+.input-box{
+
+  border-radius: 20px;
+  padding: 5px;
+  margin: 10px 0;
+  width: 70%;
+  border: 1px solid #999;
+  outline: none;
+}
+button{
+  color: #fff;
+  width: 100px;
+  padding: 10px;
+  border-radius: 20px;
+  font-size: 15px;
+  margin: 10px 0;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.signup-btn{
+  background-color: #1c8adb;
+}
+.signup-btn:hover{
+  background-color:chocolate;
+}
+
+a{
+  text-decoration:none;
+}
+hr{
+  margin-top: -5px;
+  width: 80%;
+}
+.or{
+  background:black;
+  width: 30px;
+  margin: -19px auto 10px;
+  color:white;
+}
+img{
+  width: 70px;
+  margin-top: -30px;
+}
+.signinimg{
+  width: 70px;
+  margin-top: -50px;
+}
+ form select{
+  padding:10px;
+  width:30%;
+  border-radius:5px;
+}
+.signintableinput-box{
+
+  border-radius: 20px;
+  padding: 5px;
+  margin: 10px 0;
+  width: 150%;
+  border: 1px solid #999;
+  outline: none;
+}
